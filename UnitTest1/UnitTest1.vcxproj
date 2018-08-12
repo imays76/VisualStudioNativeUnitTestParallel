@@ -165,6 +165,9 @@
     <ClCompile Include="unittest1.cpp" />
     <ClCompile Include="unittest2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="a.runsettings" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
